@@ -2,19 +2,11 @@
 .img{
     padding-left: 10px;
     
+}
 
-    
-}
-.classroom{
-    font-size: 0.5rem;
-    color: #5f6368;
-    font-family: 'Product Sans',Arial,Helvetica,sans-serif;
-}
 
 .customnavbar{
- padding-top: 5px;
- padding-left: 10px;
- font-size: 1.5rem;
+ font-size: 1rem;
  color: #5f6368;
  font-family: 'Product Sans',Arial,Helvetica,sans-serif;   
 }
@@ -44,8 +36,8 @@ body{
 
 }
 .placement{
-    margin-top: 32rem; 
-    margin-left: 40rem;
+   padding-top: 255px; 
+   color:blue
 }
 
   @media only screen and (max-width: 600px) {
