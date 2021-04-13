@@ -1,7 +1,56 @@
 
+.img{
+    padding-left: 10px;
+    
+
+    
+}
 .classroom{
+    font-size: 1.5rem;
     color: #5f6368;
     font-family: 'Product Sans',Arial,Helvetica,sans-serif;
-
-  
 }
+
+.customnavbar{
+ padding-top: 5px;
+ padding-left: 10px;
+ font-size: 1.5rem;
+ color: #5f6368;
+ font-family: 'Product Sans',Arial,Helvetica,sans-serif;   
+}
+
+
+.placementtext{
+    font-family: Arial,sans-serif;
+    color: #3c4043;
+}
+
+.placementlink{
+    font-family: Arial,sans-serif;
+    color: blue;
+    margin-left: 4rem;
+    text-decoration: none;
+}
+body{
+    background-image: url("./images/background.png");
+    background-repeat: no-repeat;
+    background-size:25%;  
+    height: 23.75rem;
+    background-position-x: center;
+    background-position-y: 10rem;
+    height:auto;
+    max-width: 100%;
+
+
+}
+.placement{
+    margin-top: 32rem; 
+    margin-left: 40rem;
+}
+
+  @media only screen and (max-width: 600px) {
+    body {
+      max-width: 100%;
+      height: auto  ;
+    }
+  }
